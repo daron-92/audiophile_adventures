@@ -1,0 +1,3 @@
+#My Journey Through Sound HTML&CSS project
+
+This is my new project relating to my audio hobby. I try to trace back my hifi equipments for the last 20 years, in the meanwhile write a review and reflect on my thoughts about them. I also aim to improve my coding knowledge, just started to learn CSS, hopefully I can implement some of the things here. I plan to add a lot of content to this site, so it may be a longer project...
